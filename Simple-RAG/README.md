@@ -10,3 +10,6 @@
     2. Chunked and embedding the data
     3. Storing the embeddings in the chromdb
     4. Hitting the Ollama API endpoint --> localhost:11434/api/generate with required "json" payload
+
+### Finally how it looks like on post execution
+![alt text](<Screenshot from 2025-09-29 22-31-48.png>)
