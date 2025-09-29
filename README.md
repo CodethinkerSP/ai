@@ -51,7 +51,7 @@ Installation & Setup
     Clone the repository:
     bash
 
-git clone https://github.com/your-username/your-repo-name.git
+[git clone https://github.com/your-username/your-repo-name.git](https://github.com/CodethinkerSP/ai/)
 cd your-repo-name
 
 (Recommended) Create and activate a virtual environment:
@@ -73,43 +73,3 @@ Running a Specific Example
 Most folders contain a README.md with specific instructions. For example, to run an Ollama example:
 bash
 
-# Navigate to the Ollama guide
-cd Tools_&_Frameworks/Ollama
-
-# Follow the instructions in the local README.md
-# It might look like:
-ollama pull llama2
-python simple_chat.py
-
-🛠️ Featured Tools & Technologies
-Category	Technologies
-Core ML	Python, Scikit-learn, Pandas, NumPy
-Deep Learning	TensorFlow, PyTorch, Keras
-Local LLMs	Ollama, llama.cpp
-RAG & Data Apps	LLamaIndex, LangChain
-AI Agents	LangGraph, AutoGen
-Low-Code	H2O.ai, Google Vertex AI, MLflow
-Visualization	Matplotlib, Seaborn, Plotly
-🤝 Contributing
-
-Contributions are welcome! This is a living document of our learning journey.
-
-    Fork the repository.
-
-    Create a feature branch (git checkout -b feature/amazing-contribution).
-
-    Commit your changes (git commit -m 'Add some amazing notes').
-
-    Push to the branch (git push origin feature/amazing-contribution).
-
-    Open a Pull Request.
-
-Please ensure your notes are clear and code is well-commented.
-📝 License
-
-This repository is licensed under the MIT License - see the LICENSE file for details. This means you are free to use the code and notes here, but attribution is appreciated.
-🙏 Acknowledgments
-
-    The open-source AI/ML community for their incredible tools and libraries.
-
-    All the researchers and educators who make this knowledge accessible.
