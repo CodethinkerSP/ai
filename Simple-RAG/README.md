@@ -13,3 +13,5 @@
 
 ### Finally how it looks like on post execution
 ![alt text](<Screenshot from 2025-09-29 22-31-48.png>)
+
+* On successful , you should see the folder name with your chroma db client name along with "Sqlite3" file for holding the embedding data
