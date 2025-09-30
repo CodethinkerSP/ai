@@ -60,16 +60,3 @@ bash
 python -m venv ai_ml_env
 source ai_ml_env/bin/activate  # On Windows: `ai_ml_env\Scripts\activate`
 
-Install core dependencies:
-A basic requirements.txt file is provided in the root directory.
-bash
-
-pip install -r requirements.txt
-
-    Note: Specific tool guides may have their own dependency files located in their respective folders.
-
-Running a Specific Example
-
-Most folders contain a README.md with specific instructions. For example, to run an Ollama example:
-bash
-
